@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2012\Projects\中秋昨夜\中秋昨夜\bin\Debug\中秋昨夜.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\中秋昨夜\中秋昨夜\bin\Debug\中秋昨夜.exe
+c:\users\administrator\documents\visual studio 2012\Projects\中秋昨夜\中秋昨夜\bin\Debug\中秋昨夜.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\中秋昨夜\中秋昨夜\obj\Debug\中秋昨夜.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\中秋昨夜\中秋昨夜\obj\Debug\中秋昨夜.exe
+c:\users\administrator\documents\visual studio 2012\Projects\中秋昨夜\中秋昨夜\obj\Debug\中秋昨夜.pdb

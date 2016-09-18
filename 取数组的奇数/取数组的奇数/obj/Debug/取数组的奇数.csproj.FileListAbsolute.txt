@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2012\Projects\取数组的奇数\取数组的奇数\bin\Debug\取数组的奇数.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\取数组的奇数\取数组的奇数\bin\Debug\取数组的奇数.exe
+c:\users\administrator\documents\visual studio 2012\Projects\取数组的奇数\取数组的奇数\bin\Debug\取数组的奇数.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\取数组的奇数\取数组的奇数\obj\Debug\取数组的奇数.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\取数组的奇数\取数组的奇数\obj\Debug\取数组的奇数.exe
+c:\users\administrator\documents\visual studio 2012\Projects\取数组的奇数\取数组的奇数\obj\Debug\取数组的奇数.pdb

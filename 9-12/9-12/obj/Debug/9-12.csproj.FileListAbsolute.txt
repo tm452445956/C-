@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2012\Projects\9-12\9-12\bin\Debug\9-12.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\9-12\9-12\bin\Debug\9-12.exe
+c:\users\administrator\documents\visual studio 2012\Projects\9-12\9-12\bin\Debug\9-12.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\9-12\9-12\obj\Debug\9-12.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\9-12\9-12\obj\Debug\9-12.exe
+c:\users\administrator\documents\visual studio 2012\Projects\9-12\9-12\obj\Debug\9-12.pdb
