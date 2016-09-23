@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2012\Projects\异常\异常\bin\Debug\异常.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\异常\异常\bin\Debug\异常.exe
+c:\users\administrator\documents\visual studio 2012\Projects\异常\异常\bin\Debug\异常.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\异常\异常\obj\Debug\异常.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\异常\异常\obj\Debug\异常.exe
+c:\users\administrator\documents\visual studio 2012\Projects\异常\异常\obj\Debug\异常.pdb
+D:\C#\异常\异常\异常\bin\Debug\异常.exe.config
+D:\C#\异常\异常\异常\obj\Debug\异常.exe
+D:\C#\异常\异常\异常\obj\Debug\异常.pdb
+D:\C#\异常\异常\异常\bin\Debug\异常.exe
+D:\C#\异常\异常\异常\bin\Debug\异常.pdb
+D:\C#\异常\异常\异常\obj\Debug\异常.csprojResolveAssemblyReference.cache

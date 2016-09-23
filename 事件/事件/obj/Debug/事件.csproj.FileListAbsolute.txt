@@ -1,0 +1,6 @@
+D:\C#\事件\事件\bin\Debug\事件.exe.config
+D:\C#\事件\事件\bin\Debug\事件.exe
+D:\C#\事件\事件\bin\Debug\事件.pdb
+D:\C#\事件\事件\obj\Debug\事件.csprojResolveAssemblyReference.cache
+D:\C#\事件\事件\obj\Debug\事件.exe
+D:\C#\事件\事件\obj\Debug\事件.pdb

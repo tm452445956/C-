@@ -1,0 +1,6 @@
+D:\C#\结构体和枚举\结构体和枚举\bin\Debug\结构体和枚举.exe.config
+D:\C#\结构体和枚举\结构体和枚举\bin\Debug\结构体和枚举.exe
+D:\C#\结构体和枚举\结构体和枚举\bin\Debug\结构体和枚举.pdb
+D:\C#\结构体和枚举\结构体和枚举\obj\Debug\结构体和枚举.csprojResolveAssemblyReference.cache
+D:\C#\结构体和枚举\结构体和枚举\obj\Debug\结构体和枚举.exe
+D:\C#\结构体和枚举\结构体和枚举\obj\Debug\结构体和枚举.pdb

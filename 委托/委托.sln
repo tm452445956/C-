@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托", "委托\委托.csproj", "{4EBC8C82-CEF5-41E0-8777-AB2191F883CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EBC8C82-CEF5-41E0-8777-AB2191F883CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBC8C82-CEF5-41E0-8777-AB2191F883CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBC8C82-CEF5-41E0-8777-AB2191F883CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBC8C82-CEF5-41E0-8777-AB2191F883CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

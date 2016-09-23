@@ -1,0 +1,6 @@
+D:\C#\9-22作业\9-22作业\bin\Debug\9-22作业.exe.config
+D:\C#\9-22作业\9-22作业\bin\Debug\9-22作业.exe
+D:\C#\9-22作业\9-22作业\bin\Debug\9-22作业.pdb
+D:\C#\9-22作业\9-22作业\obj\Debug\9-22作业.csprojResolveAssemblyReference.cache
+D:\C#\9-22作业\9-22作业\obj\Debug\9-22作业.exe
+D:\C#\9-22作业\9-22作业\obj\Debug\9-22作业.pdb

@@ -1,0 +1,5 @@
+D:\C#\容器\容器\bin\Debug\容器.exe.config
+D:\C#\容器\容器\bin\Debug\容器.exe
+D:\C#\容器\容器\bin\Debug\容器.pdb
+D:\C#\容器\容器\obj\Debug\容器.exe
+D:\C#\容器\容器\obj\Debug\容器.pdb

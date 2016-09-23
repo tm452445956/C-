@@ -1,0 +1,6 @@
+D:\C#\9-20\9-20\bin\Debug\9-20.exe.config
+D:\C#\9-20\9-20\bin\Debug\9-20.exe
+D:\C#\9-20\9-20\bin\Debug\9-20.pdb
+D:\C#\9-20\9-20\obj\Debug\9-20.csprojResolveAssemblyReference.cache
+D:\C#\9-20\9-20\obj\Debug\9-20.exe
+D:\C#\9-20\9-20\obj\Debug\9-20.pdb

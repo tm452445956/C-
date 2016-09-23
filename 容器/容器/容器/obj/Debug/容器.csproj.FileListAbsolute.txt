@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2012\Projects\容器\容器\bin\Debug\容器.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\容器\容器\bin\Debug\容器.exe
+c:\users\administrator\documents\visual studio 2012\Projects\容器\容器\bin\Debug\容器.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\容器\容器\obj\Debug\容器.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\容器\容器\obj\Debug\容器.exe
+c:\users\administrator\documents\visual studio 2012\Projects\容器\容器\obj\Debug\容器.pdb
